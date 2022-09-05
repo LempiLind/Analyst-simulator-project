@@ -1,1 +1,2 @@
-# Analyst-simulator-project
+- Exploring data after AB-tests
+- Creating DAGs for automatically sent reports
